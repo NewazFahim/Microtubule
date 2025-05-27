@@ -1,0 +1,6 @@
+0001.txt: 2245.6860 units
+0065.txt: 2283.6849 units
+0130.txt: 2374.4437 units
+0165.txt: 2342.3332 units
+0196.txt: 2318.8968 units
+0328.txt: 2349.0455 units

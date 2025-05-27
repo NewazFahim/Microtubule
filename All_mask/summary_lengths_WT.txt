@@ -1,0 +1,6 @@
+0000.txt: 658.1602 units
+0036.txt: 427.7940 units
+0072.txt: 272.7041 units
+0108.txt: 256.4783 units
+0144.txt: 162.4107 units
+0180.txt: 78.3813 units

@@ -1,0 +1,6 @@
+0035.txt: 2071.8026 units
+0187.txt: 1726.0453 units
+0339.txt: 1397.9974 units
+0491.txt: 964.9007 units
+0643.txt: 605.3312 units
+0795.txt: 295.9017 units

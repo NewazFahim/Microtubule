@@ -1,0 +1,6 @@
+0001.txt: 1459.9182 units
+0260.txt: 1204.2784 units
+0520.txt: 825.7936 units
+0780.txt: 676.6037 units
+1040.txt: 471.5769 units
+1312.txt: 420.5870 units
