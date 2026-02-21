@@ -9,11 +9,4 @@ This Python script facilitates the analysis of geometric properties of paths ext
 F_2(c)=R_i−∣R∣
 where R_i=√ (|x−x_c|)^2+(|y−y_c|)^2
 represents the distance from each point (x,y) to the circle center, and ∣R∣ is the mean distance of all points to the center. The radii of the fitted circles are calculated, enabling the determination of curvature for each path. The results are visualized through histograms of the radii and curvatures, as well as a graphical representation of the paths overlaid with their corresponding fitted circles. This approach provides a quantitative and visual assessment of the curvature characteristics of the paths, aiding in the geometric analysis of vector graphics in Illustrator.
-# Procedure for estimating curvature from AFM images:
-AFM images were imported into Adobe Illustrator, where structural contours were manually traced to generate vector paths (Fig. SX(a)). The coordinates of anchor points along each path were extracted into a text file using custom JavaScript scripts developed in-house and available on GitHub. The extracted coordinate data were then fitted to circular arcs using a least-squares optimization algorithm. The resulting fitted circles are presented in Fig. SX(b). The curvature for each path was calculated as the inverse of the radius of the corresponding fitted circle.
-
-<img width="893" height="402" alt="image" src="https://github.com/user-attachments/assets/1d8c0865-b5d4-4cf2-8b47-ca9459b9084f" />
- 
-
-Figure SX. Procedure for estimating curvature from AFM images. (A) AFM image of the structure with manually traced contours overlaid. (B) Circular fits obtained using least-squares optimization, highlighting the corresponding anchor points used for curvature estimation.
 
